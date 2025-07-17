@@ -41,6 +41,12 @@ Located in [`meeting notes/`](./meeting%20notes/):
 
 ---
 
+## 📂 Project Media
+
+- 📸 Screenshots & video located in [`demo/`](./demo/)
+
+---
+
 ## 📜 License
 
 This repository is provided under the terms specified in the [LICENSE](./LICENSE) file.
